@@ -1,0 +1,13 @@
+<template>
+  <div class="container">
+    <Header></Header>
+    <nuxt-link to="/users">Users</nuxt-link>
+  </div>
+</template>
+
+<script>
+export default {};
+</script>
+
+<style>
+</style>
